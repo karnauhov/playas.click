@@ -23,30 +23,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="Playas">
-
   <meta name="google-adsense-account" content="ca-pub-3945087976657115">
-<script>
-(function(){
-var s='@keyframes r{to{transform:rotate(360deg)}}#l{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;z-index:2147483647;pointer-events:none}#i{width:48px;height:48px;border-radius:50%;border:5px solid rgba(0,0,0,.12);border-top-color:rgba(0,0,0,.85);animation:r .95s linear infinite}';
-var st=document.createElement('style');st.appendChild(document.createTextNode(s));(document.head||document.documentElement).appendChild(st);
-var o=document.createElement('div');o.id='l';o.innerHTML='<div id=i></div>';(document.body||document.documentElement).appendChild(o);
-function h(){var e=document.getElementById('l');if(e){e.parentNode.removeChild(e);}if(st&&st.parentNode){st.parentNode.removeChild(st);}if(obs){obs.disconnect();}rafCancel&&rafCancel();}
-function _hasRender(){try{
- var c=document.querySelector('canvas');
- if(c){var g=c.getContext('webgl2')||c.getContext('webgl')||c.getContext('2d');if(g&& (c.clientWidth>0||c.clientHeight>0))return true}
- var el=document.querySelector('[class*="flt-"],[class*="flutter"],[id*="flt"],[data-flutter-root]');
- if(el&& (el.offsetWidth>0||el.offsetHeight>0))return true;
- return false
-}catch(e){return false}}
-var rafCancel=null;
-function rafLoop(){if(_hasRender()){h();return}rafCancel=window.requestAnimationFrame(rafLoop)}
-rafLoop();
-var obs=new MutationObserver(function(){if(_hasRender()){h()}});obs.observe(document.documentElement||document.body,{childList:true,subtree:true,attributes:true});
-window.addEventListener('flutter-first-frame',function(){h()},{once:true});
-window.__hideFlutterLoader=function(){h()};
-})();
-</script>
-
   <meta name="robots" content="noindex" />
 
   <!-- Favicon -->

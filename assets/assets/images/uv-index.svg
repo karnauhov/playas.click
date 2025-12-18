@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#14181b"
+   width="800"
+   height="800"
+   viewBox="0 0 32 32"
+   id="Layer_1"
+   data-name="Layer 1"
+   stroke="#14181b"
+   stroke-width="0.32"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+     id="SVGRepo_iconCarrier">
+    <path
+       d="M 13,30 H 9 A 2.0027,2.0027 0 0 1 7,28 v -8 h 2 v 8 h 4 v -8 h 2 v 8 a 2.0027,2.0027 0 0 1 -2,2 z"
+       id="path1" />
+    <polygon
+       points="17,20 19.5,30 22.5,30 25,20 23.25,20 21,29.031 18.792,20 "
+       id="polygon1" />
+    <rect
+       x="15"
+       y="2"
+       width="2"
+       height="5"
+       id="rect1" />
+    <rect
+       x="21.6675"
+       y="6.8536"
+       width="4.9580002"
+       height="1.9998"
+       transform="rotate(-45,24.14652,7.8534841)"
+       id="rect2" />
+    <rect
+       x="25"
+       y="15"
+       width="5"
+       height="2"
+       id="rect3" />
+    <rect
+       x="2"
+       y="15"
+       width="5"
+       height="2"
+       id="rect4" />
+    <rect
+       x="6.8536"
+       y="5.3744998"
+       width="1.9998"
+       height="4.9580002"
+       transform="rotate(-45,7.8535131,7.8534684)"
+       id="rect5" />
+    <path
+       d="m 22,17 h -2 v -1 a 4,4 0 0 0 -8,0 v 1 h -2 v -1 a 6,6 0 0 1 12,0 z"
+       id="path5" />
+  </g>
+</svg>

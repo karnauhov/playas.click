@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#14181b"
+   width="800"
+   height="800"
+   viewBox="0 0 24 24"
+   id="rain"
+   class="icon glyph"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+     id="SVGRepo_iconCarrier">
+    <path
+       d="m 21,9 a 4,4 0 0 1 -4,4 H 6 A 3,3 0 1 1 7.08,7.21 5,5 0 0 1 16.08,5.12 4.08,4.08 0 0 1 17,5 4,4 0 0 1 21,9 Z m -2,12 v -4 a 1,1 0 0 0 -2,0 v 4 a 1,1 0 0 0 2,0 z m -8,0 v -4 a 1,1 0 0 0 -2,0 v 4 a 1,1 0 0 0 2,0 z m 4,-2 v -2 a 1,1 0 0 0 -2,0 v 2 a 1,1 0 0 0 2,0 z m -8,0 v -2 a 1,1 0 0 0 -2,0 v 2 a 1,1 0 0 0 2,0 z"
+       id="path1" />
+  </g>
+</svg>

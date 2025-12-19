@@ -125,7 +125,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "fdae60995e7b1db48adee5f758e9bcf2
 "index.html": "1ff9471f7ea6167652968614dd66cca6",
 "/": "1ff9471f7ea6167652968614dd66cca6",
 "logo.png": "9912fb0dfb782c332cc0f28b29a126ab",
-"main.dart.js": "3266a3d28f3de60876f8a85fe8996191",
+"main.dart.js": "fb1c939423fd6e538dcc0bf30aad2860",
 "manifest.json": "011ff017649a3bdc849fcad3bb18be7e",
 "no_preview.jpg": "7bfb8c24563a3624400e11454a7c397c",
 "version.json": "26876444b5994122144e5226969cd368"};

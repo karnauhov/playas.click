@@ -122,10 +122,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "fdae60995e7b1db48adee5f758e9bcf2
 "icons/app_launcher_icon.png": "84d59a63dabb1db1b7b5ab94adbc7c1d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "2cd911ff24701d8420d38bc02e425f5e",
-"/": "2cd911ff24701d8420d38bc02e425f5e",
+"index.html": "08b4fa0b9975b688078a54a6116bca1f",
+"/": "08b4fa0b9975b688078a54a6116bca1f",
 "logo.png": "9912fb0dfb782c332cc0f28b29a126ab",
-"main.dart.js": "17bf7b88b2899e100697321b877f7af7",
+"main.dart.js": "f7bc97981056b26c1b86e768d5df7550",
 "manifest.json": "011ff017649a3bdc849fcad3bb18be7e",
 "no_preview.jpg": "7bfb8c24563a3624400e11454a7c397c",
 "version.json": "26876444b5994122144e5226969cd368"};

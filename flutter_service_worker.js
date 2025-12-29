@@ -56,7 +56,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "fdae60995e7b1db48adee5f758e9bcf2
 "assets/assets/images/snow_showers_heavy.png": "355f0f061da3e482f4f3426ed9ace977",
 "assets/assets/images/snow_showers_slight.png": "8953003589dca61fa419dbc56639b256",
 "assets/assets/images/snow_slight.png": "39883aa8b34c517a3657c2fbe02c95bf",
-"assets/assets/images/splashscreen.png": "782ced21dcc2f79c3f61bcdd1756ffaa",
+"assets/assets/images/splashscreen.png": "81c1da05ac1e57425f0a497e1a77d89a",
 "assets/assets/images/thermometer.svg": "fb2be5eab4c12ef16503cbcf9b764887",
 "assets/assets/images/thunderstorm.png": "bcb5ec292b61537b9e2e4ade39f958c2",
 "assets/assets/images/thunderstorm_heavy_hail.png": "fcacb340f109eae2c2bf6527adb0cbe0",
@@ -122,13 +122,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "fdae60995e7b1db48adee5f758e9bcf2
 "icons/app_launcher_icon.png": "84d59a63dabb1db1b7b5ab94adbc7c1d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "08b4fa0b9975b688078a54a6116bca1f",
-"/": "08b4fa0b9975b688078a54a6116bca1f",
+"index.html": "6ac44a965c78a8584a280495ca3ff53e",
+"/": "6ac44a965c78a8584a280495ca3ff53e",
 "logo.png": "9912fb0dfb782c332cc0f28b29a126ab",
-"main.dart.js": "f7bc97981056b26c1b86e768d5df7550",
+"main.dart.js": "cc4ed0f6088826f1d3935c120dba8cb3",
 "manifest.json": "011ff017649a3bdc849fcad3bb18be7e",
 "no_preview.jpg": "7bfb8c24563a3624400e11454a7c397c",
-"version.json": "26876444b5994122144e5226969cd368"};
+"version.json": "d40fc7efb2edb117201e194c06654896"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",

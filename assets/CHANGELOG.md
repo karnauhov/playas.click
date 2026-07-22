@@ -28,6 +28,7 @@ All notable changes to this application are documented in this file.
 ### Fixed
 
 - Web warnings and runtime exceptions.
+- Flag indicators no longer disappear in published web builds.
 - Centered the map/list view toggle icon.
 - Added release-build configuration for the Android Google Maps API key.
 - Localization consistency issue in one string.

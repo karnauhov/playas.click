@@ -2,7 +2,7 @@
 
 All notable changes to this application are documented in this file.
 
-## [1.2.1] - 2026-03-10
+## [1.2.1] - 2026-10-16
 
 ### Added
 
@@ -27,6 +27,8 @@ All notable changes to this application are documented in this file.
 
 ### Fixed
 
+- Clarified how maps, location services and advertising handle data, and how to manage privacy settings.
+- Fixed error handling when a support email cannot be opened.
 - Web warnings and runtime exceptions.
 - Flag indicators no longer disappear in published web builds.
 - Centered the map/list view toggle icon.
